@@ -1,1 +1,12 @@
 "Profession","Gadgets","Specs"
+"Student","Phone","Yes"
+"Teacher","Laptop","Yes"
+"Student","Laptop","No"
+"Engineer","Phone","Yes"
+"Teacher","Dairy","No"
+"Teacher","Dairy","No"
+"Engineer","Laptop","No"
+"Student","Laptop","Yes"
+"Student","Phone","No"
+"Engineer","Phone","No"
+
